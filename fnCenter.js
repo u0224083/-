@@ -90,7 +90,7 @@ function passValue(){
     var val = document.getElementById("slct2");
     //var x = str.options[str.selectedIndex].text;
     //撈出所選option的選項文字
-    $.post("./getValue.php" , {postValue: val.options[val.selectedIndex].text},
+    $.post("./index.php" , {postValue: val.options[val.selectedIndex].text},
     function(data){      
         $("#booklist").empty();//列出已篩選表格前，清空<tbody>
         //建立<tbody>表格
