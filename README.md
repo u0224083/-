@@ -20,11 +20,11 @@ https://trello.com/u0224083
 ####選擇副類群
 ![3](https://cloud.githubusercontent.com/assets/11186031/17612981/c022c9a8-608a-11e6-8dad-d9e477c21045.png)
 <br><hr>
-####篩選結果
+####篩選作者結果
 ![4](https://cloud.githubusercontent.com/assets/11186031/17612984/c042bfec-608a-11e6-837e-9e7b76ad089c.png)
 <br><hr>
 ####依出版社篩選
 ![5](https://cloud.githubusercontent.com/assets/11186031/17612983/c04257fa-608a-11e6-9c29-0265e70e31d1.png)
 <br><hr>
-####篩選結果
+####篩選出版社結果
 ![6](https://cloud.githubusercontent.com/assets/11186031/17612982/c04053b0-608a-11e6-9912-2e8da9bbfbce.png)
